@@ -37,7 +37,3 @@ Projede iki farklı yöntem izlenmiştir:
 - `hasta_yatis_tahmini.ipynb`: Veri ön işleme, regresyon ve sınıflandırma modellerini içeren ana çalışma dosyası.
 - `train_data.csv`: Modelin eğitimi için kullanılan veri seti.
 
-
-**Hazırlayan:** İrem  
-**Bölüm:** Bilişim Sistemleri Mühendisliği  
-**Üniversite:** Burdur Mehmet Akif Ersoy Üniversitesi
