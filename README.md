@@ -37,3 +37,5 @@ Projede iki farklı yöntem izlenmiştir:
 - `hasta_yatis_tahmini.ipynb`: Veri ön işleme, regresyon ve sınıflandırma modellerini içeren ana çalışma dosyası.
 - `train_data.csv`: Modelin eğitimi için kullanılan veri seti.
 
+**⚠️ Önemli Uyarı:** Bu proje eğitim ve araştırma amaçlı bir akademik çalışmadır. Üretilen sonuçlar ve tahminler tıbbi tavsiye niteliği taşımaz. Gerçek bir teşhis veya tedavi süreci için mutlaka bir uzman hekime danışınız.
+
