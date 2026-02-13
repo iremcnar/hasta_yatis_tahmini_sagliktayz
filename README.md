@@ -4,7 +4,7 @@ Bu proje, **Burdur Mehmet Akif Ersoy Üniversitesi** bünyesindeki **Sağlıkta 
 
 ## 📌 Proje Özeti
 Hastanelerdeki yatak kapasite yönetimi ve kaynak planlaması için hasta yatış süresinin önceden tahmin edilmesi kritik bir öneme sahiptir. Bu projede, hem regresyon hem de sınıflandırma yaklaşımları kullanılarak hastaların yatış süreleri analiz edilmiştir. 
-**Veri Seti:** [Hospital Inpatient Discharges Dataset]([https://www.kaggle.com/datasets/mansoordaku/ckdisease](https://www.kaggle.com/datasets/bhautikmangukiya12/hospital-inpatient-discharges-dataset))
+**Veri Seti:** [Hospital Inpatient Discharges Dataset](https://www.kaggle.com/datasets/bhautikmangukiya12/hospital-inpatient-discharges-dataset)
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Python** (Veri Bilimi Ekosistemi)
